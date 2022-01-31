@@ -1,0 +1,14 @@
+String concatenation:
+String concatenation is combining two values. for String concatenation to work one value
+should have type String.
+Arithmetic operations:
+Addition +
+subtraction -
+multiplication *
+division /
+modulus  %
+Type casting:
+Converting one datatype to another data type.
+
+
+

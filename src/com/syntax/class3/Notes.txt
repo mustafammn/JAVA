@@ -1,0 +1,24 @@
+what are variables:
+variables are boxes in the computer memory that hold values.
+what data types?
+datatype is mechanism that defines what type of values a variable can store and what type
+of operations we can perform on that data.
+String concatenation?
+using String concatenation we can combine or attach a value with String
+String var1="Hello world";
+int number1=10;
+String result=var1+number1=>Hello world10
+To perform concatenation only one variable needs to be a String the other variable can be
+of any data type like boolean int char String etc.
+Arithmetic operators.
++ - * / %
+we use + to perform addition or concatenation
+we use - to perform subtraction
+we use * to multiplication
+we use / for division
+we use % to get the remainder
+=============================================================
+Shorthand Operators
+++ -- += -= *= /= %=
+int var1=100;
+var1++;

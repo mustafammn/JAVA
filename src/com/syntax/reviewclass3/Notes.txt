@@ -1,0 +1,5 @@
+If else conditions help us make decisions in our code.
+
+if(true){
+System.out.println("Simple if condition");
+}

@@ -1,0 +1,8 @@
+Replit Instruction:
+1) I will be releasing new exercises each week.
+2) Solve them on the replit platform not in Eclipse.
+3) Never ever try to copy and paste code from eclipse.
+4) For each exercise there are test cases associated once
+you are done solving your exercise execute the test case
+to verify the results.
+Break till 8:45

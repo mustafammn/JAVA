@@ -1,0 +1,48 @@
+what is programming?
+giving instructions to the computer to solve a problem.
+what is java?
+Java is a programming language.
+what is eclipse?
+Eclipse is a software that helps us write and execute java programs
+(collection of instructions in java).
+
+Note:
+1) To rename something right-click that thing then select refactor and then rename
+   Right click>>> refactor >>>> remain
+2) To format code use Ctrl+Shift+F(Windows)
+    To format code use Cmd+Shift+F(Mac)
+
+There are two Main categories of Data types in Java
+1) Primitive
+2) Non-Primitive
+Primitive Data Types:
+1) byte -> store numbers without decimal points from -128 to 127
+2) short ->store numbers without decimal points from -32768 to 32767
+3) int -> most widely used data type for storing numbers without decimal places
+4) long
+5) float
+6) double most widely used data type for storing numbers with decimal places
+7) boolean  to store true false values
+8) char     are used to store symbols from our keyboard
+
+Non-Primitive:
+Non-Primitive data types always start with upper case letters
+String  to store numbers letters and characters or a mixture of all of this
+Important Note:
+Not two variables in a class can have same name
+String concatenation:
+we can use + operator to combine the values from two String variables
+
+
+
+
+
+
+
+
+
+
+
+
+
+

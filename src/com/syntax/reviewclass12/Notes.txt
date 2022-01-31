@@ -1,0 +1,36 @@
+Sets:
+    Sets in java are special data structures that do not allow duplicate elements
+    There are three main types of Sets
+    1) Hashset
+    2) LinkedHashset
+    3) TreeHashset
+HashSet:
+    Fast but no insertion order
+LinkedHashset:
+    Slower than Hashset but retains insertion order
+TreeSet:
+    Sorts the elements in natural order.
+===============================================================
+Map is a data structure that stores the element in the form of key value
+paris
+Most famous type of maps are
+1) HashMap
+2) LinkedHashMap
+3) TreeMap
+4) HashTable
+HashMap:
+Insertion order is not maintained but they are the fastest most widely used.
+LinkedHashMap
+Maintains the insertion order but are slower than Hashmaps
+TreeMap
+Sorts the data based on keys insertion is very slow but retrieval is comparable to Hashmap.
+HashTable
+HashTables are thread safe
+====================================================
+FileHandling
+Reading manipulating and writing data to files is called File Handling in java
+Path=location of that file on our computer
+if we want to read the data from files we need FileInputStream
+if we want to write the data to files we use FileOutputStream
+
+
